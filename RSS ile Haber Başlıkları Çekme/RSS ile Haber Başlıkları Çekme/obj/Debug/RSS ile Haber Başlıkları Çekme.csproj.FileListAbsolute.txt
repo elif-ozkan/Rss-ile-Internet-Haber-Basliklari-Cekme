@@ -1,0 +1,11 @@
+C:\Users\elifo\Desktop\PROJELERİM\RSS ile Haber Başlıkları Çekme\RSS ile Haber Başlıkları Çekme\bin\Debug\RSS ile Haber Başlıkları Çekme.exe.config
+C:\Users\elifo\Desktop\PROJELERİM\RSS ile Haber Başlıkları Çekme\RSS ile Haber Başlıkları Çekme\bin\Debug\RSS ile Haber Başlıkları Çekme.exe
+C:\Users\elifo\Desktop\PROJELERİM\RSS ile Haber Başlıkları Çekme\RSS ile Haber Başlıkları Çekme\bin\Debug\RSS ile Haber Başlıkları Çekme.pdb
+C:\Users\elifo\Desktop\PROJELERİM\RSS ile Haber Başlıkları Çekme\RSS ile Haber Başlıkları Çekme\obj\Debug\RSS ile Haber Başlıkları Çekme.csproj.AssemblyReference.cache
+C:\Users\elifo\Desktop\PROJELERİM\RSS ile Haber Başlıkları Çekme\RSS ile Haber Başlıkları Çekme\obj\Debug\RSS ile Haber Başlıkları Çekme.csproj.SuggestedBindingRedirects.cache
+C:\Users\elifo\Desktop\PROJELERİM\RSS ile Haber Başlıkları Çekme\RSS ile Haber Başlıkları Çekme\obj\Debug\RSS_ile_Haber_Başlıkları_Çekme.Form1.resources
+C:\Users\elifo\Desktop\PROJELERİM\RSS ile Haber Başlıkları Çekme\RSS ile Haber Başlıkları Çekme\obj\Debug\RSS_ile_Haber_Başlıkları_Çekme.Properties.Resources.resources
+C:\Users\elifo\Desktop\PROJELERİM\RSS ile Haber Başlıkları Çekme\RSS ile Haber Başlıkları Çekme\obj\Debug\RSS ile Haber Başlıkları Çekme.csproj.GenerateResource.cache
+C:\Users\elifo\Desktop\PROJELERİM\RSS ile Haber Başlıkları Çekme\RSS ile Haber Başlıkları Çekme\obj\Debug\RSS ile Haber Başlıkları Çekme.csproj.CoreCompileInputs.cache
+C:\Users\elifo\Desktop\PROJELERİM\RSS ile Haber Başlıkları Çekme\RSS ile Haber Başlıkları Çekme\obj\Debug\RSS ile Haber Başlıkları Çekme.exe
+C:\Users\elifo\Desktop\PROJELERİM\RSS ile Haber Başlıkları Çekme\RSS ile Haber Başlıkları Çekme\obj\Debug\RSS ile Haber Başlıkları Çekme.pdb
